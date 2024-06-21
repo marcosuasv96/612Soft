@@ -16,5 +16,13 @@
     "astro": "^4.10.3",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.4.5"
+  },
+  "description": "This is the project for our web page.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.7"
   }
 }
